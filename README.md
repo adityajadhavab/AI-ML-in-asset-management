@@ -4,7 +4,7 @@ Credit Risk Modeling in Python (using state of the art techniques to build provi
 
 
 
-Techniques
+#### Techniques
 
 - Weight of evidence
 - Information value
