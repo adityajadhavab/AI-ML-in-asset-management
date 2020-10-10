@@ -18,3 +18,5 @@ Credit Risk Modeling in Python (using state of the art techniques to build provi
 - Kolmogorov-Smirnov
 - Assessing Population Stability
 - Maintaining a model
+
+Reference: Notebooks from credit risk modeling course
